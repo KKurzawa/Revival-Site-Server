@@ -1,10 +1,10 @@
 const mongoose = require("mongoose");
 
 const commentsSchema = {
-    name: String,
-    comments: String
+    username: String,
+    comment: String
 }
 
-const Note = mongoose.model("Comment", commentsSchema);
+const Comment = mongoose.model("Comment", commentsSchema);
 
 module.exports = Comment;
