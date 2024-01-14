@@ -1,7 +1,8 @@
 const mongoose = require("mongoose");
 
 const commentsSchema = {
-    username: String,
+    userfirstname: String,
+    userlastname: String,
     comment: String
 }
 

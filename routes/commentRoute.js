@@ -3,10 +3,12 @@ const router = express.Router();
 const Comment = require("../Models/commentModel");
 
 router.route("/create").post((req, res) => {
-    const username = req.body.username;
+    const userfirstname = req.body.userfirstname;
+    const userlastname = req.body.userlastname;
     const comment = req.body.comment;
     const newComment = new Comment({
-        username,
+        userfirstname,
+        userlastname,
         comment
     });
 
