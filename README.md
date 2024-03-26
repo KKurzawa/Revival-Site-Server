@@ -3,11 +3,11 @@
 ## Description
 A simple server for Revival: A Tribute to the Allman Brothers website built with MongoDB, Mongoose, Express, Cors, and deployed with render.
 
-![Github Repository](https://github.com/KKurzawa/Revival-Site-Server)
+[Github Repository](https://github.com/KKurzawa/Revival-Site-Server)
 
-![Client Side Gitub Repository](https://github.com/KKurzawa/Revival-Site)
+[Client Side Gitub Repository](https://github.com/KKurzawa/Revival-Site)
 
-![Deployed Site](https://revivalbanddetroit.vercel.app/)
+[Deployed Site](https://revivalbanddetroit.vercel.app/)
 
 ## Credits
 
